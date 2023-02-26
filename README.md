@@ -1,2 +1,2 @@
 # Mahine-Learning
-Just in learning phas
+Just in learning phase
