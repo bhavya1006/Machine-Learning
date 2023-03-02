@@ -11,16 +11,16 @@ Machine Learning has many accurate models depended on different accuracy and dat
 <center>
 <br>
                                              
-                             INPUT           +-----------------+
-              Data      ---------------->    |   Traditional   |     ----------------> Output
-              Program   ---------------->    |   Programming   |
-                                             +-----------------+
+                        INPUT           +-----------------+
+         Data      ---------------->    |   Traditional   |     ----------------> Output
+         Program   ---------------->    |   Programming   |
+                                        +-----------------+
               
               
-                             INPUT           +-----------------+
-              Data      ---------------->    |   Machine       |     ----------------> Program
-              Output    ---------------->    |   Learning      |
-                                             +-----------------+
+                        INPUT           +-----------------+
+         Data      ---------------->    |   Machine       |     ----------------> Program
+         Output    ---------------->    |   Learning      |
+                                        +-----------------+
 
 </center>
 </h3>
