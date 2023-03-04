@@ -7,6 +7,7 @@ Machine learning, a sub-field of Artificial Intelligence. ML is the field of stu
 <br>
 Machine Learning has many accurate models depended on different accuracy and data consistency. The accuracy is most important , which indicates the correctness of the model for the real life problems and to get more feedback to improve.
 </h3>
+</p>
 <h3>
 <center>
 <br>
@@ -24,3 +25,10 @@ Machine Learning has many accurate models depended on different accuracy and dat
 
 </center>
 </h3>
+
+<p>
+<h2>Types of Machine Learning:</h2>
+<h3>1) Supervised Learning 
+2) Unsupervised Learning
+3) Semi-Supervised Learning
+4) Reinforcement Learning </h3>
