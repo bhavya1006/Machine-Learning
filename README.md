@@ -25,10 +25,22 @@ Machine Learning has many accurate models depended on different accuracy and dat
 
 </center>
 </h3>
-
+<br>
 <p>
 <h2>Types of Machine Learning:</h2>
 <h3>1) Supervised Learning <br>
 2) Unsupervised Learning<br>
 3) Semi-Supervised Learning<br>
 4) Reinforcement Learning <br></h3>
+</p>
+
+<br>
+<br>
+<p>
+<h2>
+1)  Supervised Machine Learning</h2>
+<h3>
+-> Supervised Learning is the learning in which labelled or continuous data is use to predict by the help of the 
+   historical data. This is use to predict the algorithm to interpret the result.
+
+</h3></p>
