@@ -44,3 +44,13 @@ Machine Learning has many accurate models depended on different accuracy and dat
    historical data. This is use to predict the algorithm to interpret the result.
 
 </h3></p>
+
+<br>
+<p>
+<h2>
+2)  Unsupervised Machine Learning</h2>
+<h3>
+-> Unsupervised Learning is the learning in which unlabelled or discrete data is given to machine for prediction.
+   in this Machine itself analyze a pattern or symmetry in data and produce such model to predict the results.
+
+</h3></p>
