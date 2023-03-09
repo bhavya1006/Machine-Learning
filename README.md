@@ -14,23 +14,23 @@ Machine learning, a sub-field of Artificial Intelligence. ML is the field of stu
 
 <p>
 <br>
-Machine Learning has many accurate models depended on different accuracy and data consistency. The accuracy is most important , which indicates the correctness of the model for the real life problems and to get more feedback to improve.
+Machine Learning has many accurate models depended on different accuracy and data consistency. The accuracy is most important, which indicates the correctness of the model for the real life problems and to get more feedback to improve.
 </h3>
 </p>
 
 <h3>
 <br>
   
-                                  INPUT           +-----------------+
-                   Data      ---------------->    |   Traditional   |     ----------------> Output
-                   Program   ---------------->    |   Programming   |
-                                                  +-----------------+
+                              INPUT           +-----------------+
+               Data      ---------------->    |   Traditional   |     ----------------> Output
+               Program   ---------------->    |   Programming   |
+                                              +-----------------+
+                             
                               
-                              
-                                  INPUT           +-----------------+
-                   Data      ---------------->    |   Machine       |     ----------------> Program
-                   Output    ---------------->    |   Learning      |
-                                                  +-----------------+
+                              INPUT           +-----------------+
+               Data      ---------------->    |   Machine       |     ----------------> Program
+               Output    ---------------->    |   Learning      |
+                                              +-----------------+
 
 </h3>
 <br>
