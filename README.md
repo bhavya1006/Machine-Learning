@@ -39,9 +39,10 @@ Machine Learning has many accurate models depended on different accuracy and dat
 <h2>Types of Machine Learning:</h2>
 <h3>1) Supervised Learning <br>
 2) Unsupervised Learning<br>
-3) Semi-Supervised Learning<br>
-4) Reinforcement Learning <br></h3>
+3) Reinforcement Learning <br>
+4) Semi-Supervised Learning<br></h3>
 </p>
+
 
 <br>
 <p>
@@ -55,8 +56,10 @@ Machine Learning has many accurate models depended on different accuracy and dat
 </p>
 
 <p align='center'>
-<img src='https://hebanas.github.io/BreakIntoAI/imgs/backpropagation.gif' width=600>
+<img src='https://hebanas.github.io/BreakIntoAI/imgs/backpropagation.gif' width=450>
 </p>
+
+    Applications: Risk Evaluation, Forecast Sales
 
 <br>
 <p>
@@ -72,6 +75,26 @@ Machine Learning has many accurate models depended on different accuracy and dat
 <p align='center'>
 <img src='https://chiselanalytics.com/wp-content/uploads/2020/09/KMeans.gif' >
 </p>
+
+    Applications: Recommendation System, Anomaly Detection
+
+<br>
+<p>
+<h2>
+3) Reinforcement Learning
+</h2>
+<h3>
+-> Reinforcement Learning is the learning which is independent of the taking any data. In this type of learning machine itself learn to generate the algorithms through intracting with the environment. It grows rapidly and generate algorithms.
+
+</h3>
+</p>
+
+<p align='center'>
+<img src='https://tinyurl.com/3ymvpanr' width=400>
+</p>
+
+    Applications: Self Driving Cars, Gaming, Healthcare
+
 
 <i>
   Content upcoming...!
