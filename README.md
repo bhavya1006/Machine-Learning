@@ -90,7 +90,7 @@ Machine Learning has many accurate models depended on different accuracy and dat
 </p>
 
 <p align='center'>
-<img src='https://tinyurl.com/3ymvpanr' width=400>
+<img src='https://www.mathworks.com/help/deeplearning/ug/reinforcement_learning_diagram.png' width=400 height=280 alt='reinforcementLearning'>
 </p>
 
     Applications: Self Driving Cars, Gaming, Healthcare
