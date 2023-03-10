@@ -54,6 +54,10 @@ Machine Learning has many accurate models depended on different accuracy and dat
 </h3>
 </p>
 
+<p align='center'>
+<img src='https://hebanas.github.io/BreakIntoAI/imgs/backpropagation.gif' width=600>
+</p>
+
 <br>
 <p>
 <h2>
