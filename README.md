@@ -96,6 +96,24 @@ Machine Learning has many accurate models depended on different accuracy and dat
     Applications: Self Driving Cars, Gaming, Healthcare
 
 
+<br>
+<p>
+<h2>
+4) Semi-Supervised Machine Learning
+</h2>
+<h3>
+-> Semi-Supervised Learning is the learning which is combination of the supervised and unsupervised machine learning algorithm. Here, a small amount of labelled data with large amount of unlabelled data is train to generate the algorithm. The algorithm would generate the respective predictions.
+
+</h3>
+</p>
+
+<p align='center'>
+<img src='https://teksands.ai/resources/images/blogs/semi-supervised-learning/Semi-Supervised-Learning.png' alt='reinforcementLearning' width=500>
+</p>
+
+    Applications: Text classification, Image classification
+
+
 <i>
   Content upcoming...!
 </i>
