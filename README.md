@@ -115,7 +115,7 @@ Machine Learning has many accurate models depended on different accuracy and dat
 
 
 <h2>
-Resources I got really intresting!
+Resources I got really interesting!
 </h2>
 <ul>
 <li><a href='https://www.aitude.com/supervised-vs-unsupervised-vs-reinforcement/'>
@@ -123,7 +123,7 @@ Supervised vs Unsupervised vs Reinforcement</a>
 <li><a href='https://arshren.medium.com/supervised-unsupervised-and-reinforcement-learning-245b59709f68'>
 Blog on type of Machine Learning by Renu Khandelwal</a>
 
-
+<br>
 <br>
 <i>
   Content upcoming...!
