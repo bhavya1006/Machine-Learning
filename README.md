@@ -125,6 +125,6 @@ Blog on type of Machine Learning by Renu Khandelwal</a>
 
 <br>
 <br>
-<i>
+<p align='right'><i>
 Content upcoming...!
-</i>
+</i></p>
