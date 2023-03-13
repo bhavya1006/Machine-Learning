@@ -114,6 +114,17 @@ Machine Learning has many accurate models depended on different accuracy and dat
     Applications: Text classification, Image classification
 
 
+<h2>
+Resources I got really intresting!
+</h2>
+<ul>
+<li><a href='https://www.aitude.com/supervised-vs-unsupervised-vs-reinforcement/'>
+Supervised vs Unsupervised vs Reinforcement</a>
+<li><a href='https://arshren.medium.com/supervised-unsupervised-and-reinforcement-learning-245b59709f68'>
+Blog on type of Machine Learning by Renu Khandelwal</a>
+
+
+<br>
 <i>
   Content upcoming...!
 </i>
