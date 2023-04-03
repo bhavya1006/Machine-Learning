@@ -113,7 +113,6 @@ Machine Learning has many accurate models depended on different accuracy and dat
 
     Applications: Text classification, Image classification
 
-
 <h2>
 Resources I got really interesting!
 </h2>
