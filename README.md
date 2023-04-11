@@ -4,7 +4,7 @@
 
 <p>
 <h3>
-Machine learning, a sub-field of Artificial Intelligence. ML is the field of study which gives the computer the capability to learn without being explicity program. ML uses the past Output to genrate a program to generate futher prediction. This field is concern with Aritificial Intelligence ( to make machine to think like human ), to be able to perform an algorithm much better result with accurate prediction. Like, in youtube , youtube history is used to predict the watching content of the user and later suggesting recommended videos related respectively.
+Machine learning, a sub-field of Artificial Intelligence. ML is the field of study which gives the computer the capability to learn without being explicitly program. ML uses the past Output to genrate a program to generate futher prediction. This field is concern with Aritificial Intelligence ( to make machine to think like human ), to be able to perform an algorithm much better result with accurate prediction. Like, in youtube , youtube history is used to predict the watching content of the user and later suggesting recommended videos related respectively.
 <br><br>
 </p>
 
