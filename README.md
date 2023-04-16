@@ -4,7 +4,7 @@
 
 <p>
 <h3>
-Machine learning, a sub-field of Artificial Intelligence. ML is the field of study which gives the computer the capability to learn without being explicity program. ML uses the past Output to genrate a program to generate futher prediction. This field is concern with Aritificial Intelligence ( to make machine to think like human ), to be able to perform an algorithm much better result with accurate prediction. Like, in youtube , youtube history is used to predict the watching content of the user and later suggesting recommended videos related respectively.
+Machine learning, a sub-field of Artificial Intelligence. ML is the field of study which gives the computer the capability to learn without being explicitly programmed. ML uses the past Output to generate a program to generate further prediction. This field is concern with Aritificial Intelligence ( to make machine to think like human ), to be able to perform an algorithm with much better result and accurate prediction. Like, in youtube , youtube history is used to predict the watching content of the user and later suggesting recommended videos related respectively.
 <br><br>
 </p>
 
@@ -50,8 +50,8 @@ Machine Learning has many accurate models depended on different accuracy and dat
 1)  Supervised Machine Learning
 </h2>
 <h3>
--> Supervised Learning is the learning in which labelled or continuous data is use to predict by the help of the 
-   historical data. This is use to predict the algorithm to interpret the result.
+-> Supervised Learning is the learning in which labelled or continuous data is used to predict by the help of the 
+   historical data. This is used to predict the algorithm to interpret the result.
 </h3>
 </p>
 
@@ -84,7 +84,7 @@ Machine Learning has many accurate models depended on different accuracy and dat
 3) Reinforcement Learning
 </h2>
 <h3>
--> Reinforcement Learning is the learning which is independent of the taking any data. In this type of learning machine itself learn to generate the algorithms through intracting with the environment. It grows rapidly and generate algorithms.
+-> Reinforcement Learning is the learning which is independent of  taking any data. In this type of learning machine itself learn to generate the algorithms through interacting with the environment. It grows rapidly and generate algorithms.
 
 </h3>
 </p>
@@ -102,7 +102,7 @@ Machine Learning has many accurate models depended on different accuracy and dat
 4) Semi-Supervised Machine Learning
 </h2>
 <h3>
--> Semi-Supervised Learning is the learning which is combination of the supervised and unsupervised machine learning algorithm. Here, a small amount of labelled data with large amount of unlabelled data is train to generate the algorithm. The algorithm would generate the respective predictions.
+-> Semi-Supervised Learning is the learning which is combination of the supervised and unsupervised machine learning algorithm. Here, a small amount of labelled data with large amount of unlabelled data is trained to generate the algorithm. The algorithm would generate the respective predictions.
 
 </h3>
 </p>
