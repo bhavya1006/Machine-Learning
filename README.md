@@ -14,7 +14,7 @@ Machine learning, a sub-field of Artificial Intelligence. ML is the field of stu
 
 <p>
 <br>
-Machine Learning has many accurate models depended on different accuracy and data consistency. The accuracy is most important, which indicates the correctness of the model for the real life problems and to get more feedback to improve.
+Machine Learning has many accurate models dependent on different accuracy and data consistency. The accuracy is most important, which indicates the correctness of the model for the real life problems and to get more feedback to improve.
 </h3>
 </p>
 
@@ -68,7 +68,7 @@ Machine Learning has many accurate models depended on different accuracy and dat
 </h2>
 <h3>
 -> Unsupervised Learning is the learning in which unlabelled or discrete data is given to machine for prediction.
-   In this Machine itself analyze a pattern or symmetry in data and produce such model to predict the results.
+   In this , Machine itself analyze a pattern or symmetry in data and produce such model to predict the results.
 </h3>
 </p>
 
