@@ -27,7 +27,7 @@ m1.fit(x,y)
 m1.score(x,y)
 ypred = m1.predict(x)
  
-# other way to get slope nad intercept 
+# other way to get slope and intercept 
 m = m1.coef_
 c = m1.intercept_
 
