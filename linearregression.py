@@ -13,7 +13,7 @@ df = pd.DataFrame(d)
 # checking null
 # print(df.isnull().sum())
 
-# apponinting independent and dependent variable
+# appointing independent and dependent variable
 x = df[["Area(sqcm)"]]
 y = df["Price(rs)"]
 # print(type(x))
