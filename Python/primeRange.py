@@ -1,5 +1,5 @@
 # Taking prime function from a python file
-from prime import *
+from prime import 
 
 # Taking range from user
 l = int(input("Enter Lower Limit: "))
