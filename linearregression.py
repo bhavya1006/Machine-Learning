@@ -32,7 +32,7 @@ m = m1.coef_
 c = m1.intercept_
 
 
-#  Defining predition in dataframe
+#  Defining prediction in dataframe
 df["Prediction"] = ypred
 
 
