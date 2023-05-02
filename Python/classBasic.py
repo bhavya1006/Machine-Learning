@@ -1,6 +1,6 @@
 # creating a class name student
 
-class student:
+class Student:
     # creating constructor
     def __init__(self):
         self.name=''
@@ -18,7 +18,7 @@ class student:
         return
 
 # creating object s1 in class student
-s1 = student()
+s1 = Student()
 # checking constructor 
 print("S1 Object:",s1)
 s1.display()
