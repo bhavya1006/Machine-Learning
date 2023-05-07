@@ -1,5 +1,5 @@
 # creating a function whoch take arguments, by default value =4
-def abcPattern(n=4):
+def abcPatternAsc(n=4):
     # ranging for number of rows
     for i in range(0,n):
         # for decreasing space
@@ -10,4 +10,4 @@ def abcPattern(n=4):
             print(chr(65+k),end=' ')
         print()
 
-abcPattern(int(input("Enter no of rows : ")))
+abcPatternAsc(int(input("Enter no of rows : ")))
