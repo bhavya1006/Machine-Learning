@@ -11,7 +11,7 @@
 class Student:
 
     # creating static variable dict & list for storing rank wise name of students
-    __dist1 = dict()
+    __dict1 = dict()
     __dict2 = dict()
     __dict3 = dict()
 
@@ -39,17 +39,17 @@ class Student:
         # sorting list and storing as rankwise in dictionary
         Student.__list1.sort(reverse=True)
         for i, x in enumerate(Student.__list1):
-            Student.__dist1[i+1] = x
+            Student.__dict1[i+1] = x
 
         # sorting list and storing as rankwise in dictionary
         Student.__list2.sort(reverse=True)
         for i, x in enumerate(Student.__list2):
-            Student.__dist2[i+1] = x
+            Student.__dict2[i+1] = x
 
         # sorting list and storing as rankwise in dictionary
         Student.__list3.sort(reverse=True)
         for i, x in enumerate(Student.__list3):
-            Student.__dist3[i+1] = x
+            Student.__dict3[i+1] = x
         
         # displaying result
         print("Semester 1: ",Student.__dist1)
