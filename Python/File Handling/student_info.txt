@@ -1,0 +1,10 @@
+Ramesh Kumar,3094DE259100,3,8.5,
+Raj Mangola,3094DE259105,3,7.5,
+Amar Singh,3094DE259134,4,9.4,
+Shikhar Lal Nehru,3094DE259156,2,7.9,
+Arjun Tomar,3094DE259122,3,5.5,
+Akash jain,3094DE259103,2,6.7,
+Devesh Thakur,3094DE259145,1,8.4,
+Gaurav Rajpur,3094DE259112,4,9.1,
+Nitin Kumar,3094DE259165,1,8.3
+Jatin Shukla,3094DE259127,2,6.7
