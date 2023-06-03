@@ -1,10 +1,9 @@
-print("Bhavya Madan\n0901AM221026")
 file = open("employee_info.txt",'r')
 emp_Detail = list()
 
 for lines in file.readlines():
     emp_Detail.append(lines.split(','))
-print(emp_Detail)
+
 def tax_to_be_deposit(emp_det):
     provident_fund = int(emp_det[3])
     salary = int(emp_det[2])
